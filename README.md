@@ -1,15 +1,7 @@
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>Hi there 👋, I'm Madiha!</h3>
-      <b>3rd Year Software Engineering Student & Frontend Developer</b>
-      <br><br>
-    </td>
-    <td width="35%" valign="top">
-      <img src="header-animation.gif" width="100%" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="header-animation.gif" width="350" />
+
+### Hi there 👋, I'm Madiha!
+**3rd Year Software Engineering Student & Frontend Developer**
 
 - 🔭 I’m currently working on a **Fishtank Pomodoro Timer**.
 - 👯 I’m looking to collaborate on **creative web applications**.
@@ -17,7 +9,7 @@
 - 🌱 I’m currently learning **how to build scalable apps**.
 - 💬 Ask me about **Frontend development & Software Engineering**.
 - ⚡ Fun fact: **I treat coding bugs like puzzles!**
-
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/madiiha.k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madiha-khan-19885a219) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m24049502@gmail.com) 
 
