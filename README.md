@@ -1,4 +1,4 @@
-<img align="right" src="header-animation.gif" width="350" />
+<img align="right" src="header-animation.gif" width="500" />
 
 ### Hi there 👋, I'm Madiha!
 **3rd Year Software Engineering Student & Frontend Developer**
