@@ -14,7 +14,7 @@
       </ul>
     </td>
     <td width="35%" valign="top">
-      <img src="header animation.gif" width="100%" />
+      <img src="header-animation.gif" width="100%" />
     </td>
   </tr>
 </table>
