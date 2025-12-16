@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hi there 👋, I'm Madiha!<br>**3rd Year Software Engineering Student & Frontend Developer**<br><br>
-<div align="center">
-  <img src="header-animation.gif" width="1000" />
+<div align="right">
+  <img src="header-animation.gif" width="200" />
 </div>
 
 
