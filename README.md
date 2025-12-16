@@ -1,5 +1,5 @@
 <img align="right" src="header-animation.gif" width="470" />
-### Hi there 👋, I'm Madiha!
+Hi there 👋, I'm Madiha!
 **3rd Year Software Engineering Student & Frontend Developer**
 
 - 🔭 I’m currently working on a **Fishtank Pomodoro Timer**.
