@@ -1,9 +1,9 @@
 # 💫 About Me:
-### Hi there 👋, I'm Madiha!<br>**3rd Year Software Engineering Student & Frontend Developer**<br><br>- 
-
+### Hi there 👋, I'm Madiha!<br>**3rd Year Software Engineering Student & Frontend Developer**<br><br>
 <div align="center">
   <img src="header-animation.gif" width="1000" />
 </div>
+
 
 🔭 I’m currently working on a **Fishtank Pomodoro Timer** (a productivity app combining time management with relaxing visual themes).<br>- 👯 I’m looking to collaborate on **creative web applications and open-source frontend projects.**<br>- 🤝 I’m looking for help with **advanced application architecture and UI/UX best practices.**<br>- 🌱 I’m currently learning **how to build scalable apps that incorporate both visual aesthetics and practical design.**<br>- 💬 Ask me about **Frontend development, Software Engineering coursework, and web design.**<br>- ⚡ Fun fact: **I treat coding bugs like puzzles—frustrating at first, but satisfying when solved!**
 
