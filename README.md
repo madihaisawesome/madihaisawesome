@@ -1,7 +1,6 @@
-<img align="right" src="header-animation.gif" width="470" />
-
 ### Hi there 👋, I'm Madiha!
 **3rd Year Software Engineering Student & Frontend Developer**
+<img align="right" src="header-animation.gif" width="470" />
 
 - 🔭 I’m currently working on a **Fishtank Pomodoro Timer**.
 - 👯 I’m looking to collaborate on **creative web applications**.
