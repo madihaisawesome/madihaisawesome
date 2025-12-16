@@ -31,7 +31,7 @@
       </div>
     </td>
   </tr>
-</table>e=false&layout=compact)
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=madihaisawesome&theme=radical&no-frame=false&no-bg=true&margin-w=4)
