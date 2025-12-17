@@ -1,5 +1,5 @@
 <img align="right" src="header-animation.gif" width="470" />
-<h3>Hi there 👋, I'm Madiha!</h3>
+<h3>Hi there, I'm Madiha!</h3>
   <b>3rd Year Software Engineering Student & Frontend Developer</b>
 </div>
 
