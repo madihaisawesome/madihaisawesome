@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **Fishtank Pomodoro Timer**.
 - 👯 I’m looking to collaborate on **creative web applications**.
-- 🌱 I’m currently learning **how to build scalable apps**.
+- 🌱 1x **Hackathon Winner**
 - 💬 Ask me about **Frontend development & Software Engineering**.
 - ⚡ Fun fact: **I treat coding bugs like puzzles!**
   
